@@ -7,8 +7,7 @@
     <meta name="description" content="Hello world! This is HTML5 Boilerplate.">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/main.css">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
     <script src="js/vendor/modernizr-2.7.1.min.js"></script>
 </head>
 <body>
@@ -33,9 +32,9 @@
 
 
 
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="js/plugins.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 <script src="js/main.js"></script>
 
 <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
